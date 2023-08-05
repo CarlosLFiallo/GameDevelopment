@@ -7,7 +7,7 @@ As a beginner, I understand that there's a lot to learn and explore in the realm
 
 My GitHub profile will be a platform for showcasing my projects, experiments, and progress as I embark on this adventure. I plan to share my code, seek feedback, and contribute to the vibrant game development community here.
 
-I'm particularly interested in [mention your preferred game development technology or framework], and I'm excited to explore various genres and styles of games. From 2D platformers to immersive 3D worlds, I can't wait to bring my ideas to life.
+I'm particularly interested in Unity, and I'm excited to explore various genres and styles of games. From 2D platformers to immersive 3D worlds, I can't wait to bring my ideas to life.
 
 If you're also passionate about game development or have any tips for a beginner like me, feel free to connect and collaborate. Let's make magic together!
 
